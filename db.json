@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "juan carlos ",
+      "empresa": "polar ",
+      "email": "sipero2013@gmail.com",
+      "telefono": "04261205360",
+      "notas": "uioioipoipo",
+      "id": 1
+    },
+    {
+      "nombre": "juan carlos ",
+      "empresa": "polar ",
+      "email": "sipero2013@gmail.com",
+      "telefono": "04261205360",
+      "notas": "uioioipoipo",
+      "id": 2
+    },
+    {
+      "nombre": "juan carlos ",
+      "empresa": "polar ",
+      "email": "rondonmartinezsimonpedro@gmail.com",
+      "telefono": "04261205380",
+      "notas": "saddadax",
+      "id": 3
+    }
+  ]
+}
